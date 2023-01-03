@@ -1,2 +1,2 @@
 # Radio-station-challenge
-This is a challenge of designing a radio station
+This is a challenge to design a radio station
